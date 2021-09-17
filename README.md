@@ -31,3 +31,7 @@ Then "construction_year" column was removed and a new column "year" was added us
 
 Many of the remaining dataset columns were categorical and they had high cardinality. 
 Therfore LabelEncoding was chosed as the encoding method
+
+## Proof
+![alt text](https://github.com/jayampathiadhikari/ML---Pump-it-up/blob/main/Screenshot%202021-09-17%20090916.png?raw=true)
+![alt text](https://github.com/jayampathiadhikari/ML---Pump-it-up/blob/main/Screenshot%202021-09-17%20090932.png?raw=true)
